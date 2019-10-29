@@ -9,26 +9,20 @@ With the development of the new Changi Jewel in Singapore recently, I was curiou
 to the Overseas visitor survey, which contains information about tourists'accomodation, frequency of visit, purpose of visit and number of travelling
 companions.
 
-1
-<img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image1.png">
-
-2
-<img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image1.png"><img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image2.png">
-
-3
-<p float="left">
-  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image1.png" width="300">
-  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image2.png" width="300"> 
+<p style="text-align: center;">
+<img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image1.png" style="width:500px;">
 </p>
 
-4
-h|i
-:-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image1.png">  |  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image2.png">
-
-5
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image1.png" width="300">
-  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image2.png" width="300"> 
+<p style="text-align: center;">
+<img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image2.png" style="width:500px;">
 </p>
+
+<p style="text-align: center;">
+<img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image3.png" style="width:500px;">
+</p>
+
+Notes:
+
+- Data set is limited to the years 2013 and 2014, and of individuals who responded to the survey. Actual values may differ from results.
+- Data set can be found on data.gov.sg ( <a href="https://data.gov.sg/dataset/overseas-visitors-survey-visitors-profile-data-accommodation">Accomodation</a> , <a href="https://data.gov.sg/dataset/overseas-visitors-survey-visitors-profile-data-frequency-of-visit">Frequency</a>, <a href="https://data.gov.sg/dataset/overseas-visitors-survey-visitors-profile-data-travelling-companions">Companion</a>, <a href="https://data.gov.sg/dataset/overseas-visitors-survey-visitors-profile-data-purpose-of-visit">Purpose</a> ) under the terms of the <a href="https://data.gov.sg/open-data-licence">Singapore Open Data License</a>  version 1.0
+- My workings can be found on <a href="https://htmlpreview.github.io/?https://github.com/clintonwxy/Exploring-Data.gov.sg/blob/master/OverseasVisitorsSurvey/OverseasVisitorsSurvey.html">GitHub</a>
