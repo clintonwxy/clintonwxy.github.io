@@ -17,9 +17,13 @@ companions.
 <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image2.png" style="width:500px;">
 </p>
 
+Unsurpisingly, the first time visitors coming to Singapore mostly are from Germany, France, USA, Canada and Italy. Also, repeat visitors mostly come from Malaysia, Indonesia, Thailand, Hong Kong and New Zealand.
+
 <p style="text-align: center;">
 <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image3.png" style="width:500px;">
 </p>
+
+Mostly, first time visitors are in Singapore for Holiday and Leisure while repeat visitors are here for visiting. There appears to be a mixed group for business. Thailand, Malaysia and Hong Kong visitors frequent Singapore for business, but not for individuals from New Zealand and Indonesia. Most first time visitors in Singapore for business come from the USA and Italy.
 
 Notes:
 
