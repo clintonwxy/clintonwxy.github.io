@@ -9,4 +9,4 @@ With the development of the new Changi Jewel in Singapore recently, I was curiou
 to the Overseas visitor survey, which contains information about tourists'accomodation, frequency of visit, purpose of visit and number of travelling
 companions.
 
-![](https://github.com/clintonwxy/Exploring-Data.gov.sg/blob/master/OverseasVisitorsSurvey/images/image1.png)
+<img src="https://github.com/clintonwxy/Exploring-Data.gov.sg/blob/master/OverseasVisitorsSurvey/images/image1.png">
