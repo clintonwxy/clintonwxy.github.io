@@ -17,6 +17,10 @@ companions.
 
 3
 <p float="left">
-  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image1.png">
-  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image2.png"> 
+  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image1.png" width="400">
+  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image2.png" width="400"> 
 </p>
+
+4
+:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image1.png">  |  <img src="https://raw.githubusercontent.com/clintonwxy/Exploring-Data.gov.sg/master/OverseasVisitorsSurvey/images/image2.png">
