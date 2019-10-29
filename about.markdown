@@ -2,6 +2,7 @@
 layout: page
 title:  "About"
 ---
+# About Me
 
 Hi! This is my blog where I document my data dives. I am mainly interested in working with data related to all things Singapore, 
 and data visualisations. I believe that data analytics is an emerging field in Singapore, but has lately become an overused buzzword
