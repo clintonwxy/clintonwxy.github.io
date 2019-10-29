@@ -8,8 +8,11 @@
 		<section class="about">
 			<img src="{{ "/assets/portfolio.png" | relative_url }}" alt="{{ site.plainwhite.name }}">
 			<h2>{{ site.plainwhite.name }}</h2>
-			<p class="tagline">{{ site.plainwhite.tagline }}</p>
-			<p class="tagline"><a href="https://https://clintonwxy.github.io/about">About</a></p>
+			<p class="tagline">{{ site.plainwhite.tagline }}<br>
+				<a href="https://clintonwxy.github.io/" style="color: #AAAAAA; text-decoration: none; line-height:150%;">Home</a><br>
+				<a href="https://clintonwxy.github.io/about" style="color: #AAAAAA; text-decoration: none; line-height:150%;">About</a><br>
+				<a href="https://clintonwxy.github.io/dataset" style="color: #AAAAAA; text-decoration: none; line-height:150%;">My Data Sets</a><br>
+			</p>
 			<ul class="social">
                 {%- if site.plainwhite.social_links.github -%}
 				<a href="https://github.com/{{ site.plainwhite.social_links.github }}"><li><i class="icon-github-circled"></i></li></a>
