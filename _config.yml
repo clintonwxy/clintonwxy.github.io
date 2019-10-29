@@ -1,7 +1,7 @@
-title: Mysite123
+title: missdesc
 author: GitHub User
 email: cwxy.clinton@gmail.com
-description: random123
+description: 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -17,7 +17,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     github:  clintonwxy
-    linkedIn: in/thelehhman
+    linkedIn: /in/clinton-wong-87b727134/
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
