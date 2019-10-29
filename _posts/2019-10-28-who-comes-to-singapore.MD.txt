@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Who comes to Singapore?"
-date:   2019-10-28
-categories: Singapore
----
-
-With the development of the Changi Jewel recently, I was interested to find out about where do the tourists that visit Singapore come from. With that
-I turn to the Overseas Visitor Survey, which contains the origins, accomodation, purpose and frequency of visit of our tourists. 
