@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Do HDBs nearer to the MRT fetch a higher Resale Price?"
-date:   2019-10-28
+date:   2019-11-07
 categories: Singapore
 ---
 
