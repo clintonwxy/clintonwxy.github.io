@@ -28,4 +28,4 @@ Notes:
 
 - The graphs are drawn from a single day of data, on the first day of 2020. This might not represent the daily trend of commuters, which I may look into again in a separate post.
 - The data set is scrapped using the datagovsgR package, with the data from the open developer tools available under the terms of the <a href="https://data.gov.sg/open-data-licence">Singapore Open Data License</a>  version 1.0
-- My workings can be found on <a href="https://htmlpreview.github.io/?https://github.com/clintonwxy/Exploring-Data.gov.sg/blob/master/TaxiAvailability/TaxiAvailability.html">here!</a>
+- My workings can be found on <a href="https://htmlpreview.github.io/?https://github.com/clintonwxy/Exploring-Data.gov.sg/blob/master/TaxiAvailability/TaxiAvailability.html">here</a>!
